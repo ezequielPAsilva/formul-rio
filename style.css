@@ -1,0 +1,64 @@
+
+
+#cadastro{
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 1.5em;
+    color: rgb(65, 6, 119);
+    position: absolute;
+    left:40%;
+    
+}
+#Complete{
+    color: rgb(65, 6, 119);
+    position: absolute;
+    left:40%;
+    padding: 15px;
+}
+#ne{
+    width: 700px;
+    position: absolute;
+    left:30%;
+    padding: 20px;
+    color: rgb(65, 6, 119);
+    margin: 50px;
+    font-weight: bolder;
+    font-size: 25px;
+}
+.inputnomesob{
+    border-radius: 5px;
+    width: 200px;
+    position: absolute;
+    margin-top: 30px;
+    left: 2%;
+}
+.inputsob{
+    border-radius: 5px;
+    width: 200px;
+    position: absolute;
+    margin-top: 30px;
+    left: 40%;
+}
+.labelsob{
+    left: 41%;
+    position: absolute;
+    
+}
+.labelemail{
+    left: 34%;
+    position: absolute;
+    margin-top: 125px;
+    color: rgb(65, 6, 119);
+    font-weight: bolder;
+    font-size: 25px;
+}
+.inputemail{
+    border-radius: 5px;
+    width: 200px;
+    position: absolute;
+    margin-top: 150px;
+    left: 33.6%;
+    
+    
+   
+}
