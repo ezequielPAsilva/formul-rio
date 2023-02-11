@@ -130,3 +130,25 @@ body{
     margin-top: 315px;
     color: rgb(94, 27, 156);
 }
+
+/*
+*/
+
+#senioridade{
+    position: absolute;
+    left: 34%;    
+    margin-top: 340px;
+    color: rgb(94, 27, 156);
+    font-weight: bolder;
+    font-size: 25px;
+}
+#option{
+    position: absolute;
+    left: 34%;    
+    margin-top:  370px;
+    color: rgb(94, 27, 156);
+    font-size: 20px;
+    border-radius: 8px;
+    width: 130px;
+    padding: 2px;
+}
