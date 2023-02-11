@@ -137,7 +137,7 @@ body{
 #senioridade{
     position: absolute;
     left: 34%;    
-    margin-top: 340px;
+    margin-top: 350px;
     color: rgb(94, 27, 156);
     font-weight: bolder;
     font-size: 25px;
@@ -145,10 +145,28 @@ body{
 #option{
     position: absolute;
     left: 34%;    
-    margin-top:  370px;
+    margin-top:  380px;
     color: rgb(94, 27, 156);
     font-size: 20px;
     border-radius: 8px;
     width: 130px;
     padding: 2px;
+}
+
+/*
+*/
+#Selecioneling{
+    position: absolute;
+    left: 34%;    
+    margin-top: 430px;
+    color: rgb(94, 27, 156);
+}
+
+#check{
+    background: yellow;
+    position: relative;
+    left: 30%;    
+    margin-top: 500px;
+    width:30px;
+    
 }
