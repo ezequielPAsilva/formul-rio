@@ -81,6 +81,9 @@ body{
 #pergunta{
     position: absolute;
     left: 33.6%;
+    
+    
+  
     margin-top: 200px;
     color: rgb(94, 27, 156);
 }
@@ -108,28 +111,4 @@ body{
     margin-top: 320px;
     width: 20px;
            
-}
-
-/*
-*/
-
-#frontend{
-    left: 35%;    
-    margin-top: 243px;
-    position: absolute;
-    color: rgb(94, 27, 156);
-}
-
-#backend{
-    left: 35%;    
-    margin-top: 280px;
-    position: absolute;
-    color: rgb(94, 27, 156);
-}
-
-#fulsteck{
-    left: 35%;    
-    margin-top: 315px;
-    position: absolute;
-    color: rgb(94, 27, 156);
 }
