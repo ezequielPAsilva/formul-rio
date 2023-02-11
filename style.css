@@ -1,4 +1,6 @@
-
+body{
+    background: rgb(199, 193, 193);
+}
 
 #cadastro{
     text-transform: uppercase;
@@ -25,12 +27,16 @@
     font-weight: bolder;
     font-size: 25px;
 }
-.inputnomesob{
-    border-radius: 5px;
+.inputnome{
+    border-radius: 6px;
     width: 200px;
     position: absolute;
     margin-top: 30px;
     left: 2%;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+
 }
 .inputsob{
     border-radius: 5px;
@@ -38,6 +44,21 @@
     position: absolute;
     margin-top: 30px;
     left: 40%;
+    padding: 5px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 6px;
+}
+.inputemail{
+    border-radius: 5px;
+    width: 300px;
+    position: absolute;
+    margin-top: 170px;
+    left: 33.6%;  
+    padding: 5px;  
+    text-align: center; 
+    font-size: 20px;
+    border-radius: 6px;
 }
 .labelsob{
     left: 41%;
@@ -47,18 +68,47 @@
 .labelemail{
     left: 34%;
     position: absolute;
-    margin-top: 125px;
+    margin-top: 145px;
     color: rgb(65, 6, 119);
     font-weight: bolder;
     font-size: 25px;
+    
 }
-.inputemail{
-    border-radius: 5px;
-    width: 200px;
+
+/*
+*/
+
+#pergunta{
     position: absolute;
-    margin-top: 150px;
     left: 33.6%;
     
     
   
+    margin-top: 200px;
+    color: rgb(94, 27, 156);
+}
+
+#radio{
+    background: rgb(180, 180, 153);
+    position: absolute;
+    left: 33%;    
+    margin-top: 250px;
+    width: 20px;
+           
+}
+#radio2{
+    background: rgb(180, 180, 153);
+    position: absolute;
+    left: 33%;    
+    margin-top: 285px;
+    width: 20px;
+           
+}
+#radio3{
+    background: rgb(180, 180, 153);
+    position: absolute;
+    left: 33%;    
+    margin-top: 320px;
+    width: 20px;
+           
 }
