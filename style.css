@@ -1,5 +1,5 @@
 body{
-    background: rgb(199, 193, 193);
+    background: rgb(212, 209, 209);
 }
 
 #cadastro{
@@ -163,10 +163,86 @@ body{
 }
 
 #check{
-    background: yellow;
     position: relative;
     left: 30%;    
     margin-top: 500px;
     width:30px;
+
     
+}
+#labellin{
+    position: relative;
+    left: 35%;    
+    margin-top: 500px;  
+    color: rgb(94, 27, 156); 
+}
+
+#labelcss{
+    position: relative;
+    left: 34%;    
+    margin-top: 500px;
+    color: rgb(94, 27, 156);
+}
+#labeljavaS{
+    position: relative;
+    left: 33%;    
+    margin-top: 500px;
+    color: rgb(94, 27, 156);
+}
+#checkjavaS{
+    position: relative;
+    left: 27%;    
+    margin-top: 500px;
+    color: rgb(94, 27, 156);
+}
+/**/
+
+#labelPHP{
+    position: relative;
+    left: 33.4%;    
+    margin-top: 500px;
+    color: rgb(94, 27, 156);
+}
+#checkPHP{
+    position: relative;
+    left: 30%;    
+    margin-top: 500px;
+}
+/**/
+
+#labelCsharp{
+    position: relative;
+    left: 33.4%;    
+    margin-top: 500px;
+    color: rgb(94, 27, 156);
+}
+#checkCsharp{
+    position: relative;
+    left: 30.7%;    
+    margin-top: 500px;
+}
+/**/
+
+#labelPython{
+    position: relative;
+    left: 33.4%;    
+    margin-top: 500px;
+    color: rgb(94, 27, 156);
+}
+#checkPython{
+    position: relative;
+    left: 28.8%;    
+    margin-top: 500px;
+}
+/**/
+#labelJava{
+    position: relative;
+    left: 33.4%;    
+    margin-top: 500px;
+    color: rgb(94, 27, 156);
+}
+#checkJava{
+    position: relative;
+    left: 30%;    
+    margin-top: 500px;
 }
