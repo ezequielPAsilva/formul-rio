@@ -246,3 +246,27 @@ body{
     left: 30%;    
     margin-top: 500px;
 }
+#meconte{
+    position: relative;
+    left: 34%;    
+    margin-top: 20px;
+    color: rgb(94, 27, 156);
+}
+#text{
+    position: relative;
+    left: 34%;    
+    color: rgb(94, 27, 156);
+}
+#Bconcluido{
+    position: absolute;
+    left: 48%;   
+    color: aliceblue; 
+    background: rgb(94, 27, 156);
+    margin-top: 220px;
+    border-radius: 10%;
+}
+
+#Bconcluido:hover{
+    background: rgb(154, 132, 175);
+    
+}
