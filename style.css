@@ -109,6 +109,24 @@ body{
     position: absolute;
     left: 33%;    
     margin-top: 320px;
-    width: 20px;
-           
+    width: 20px;          
+}
+
+#frontend{
+    position: absolute;
+    left: 35%;    
+    margin-top: 245px;
+    color: rgb(94, 27, 156);
+}
+#backend{
+    position: absolute;
+    left: 35%;    
+    margin-top: 280px;
+    color: rgb(94, 27, 156);
+}
+#fulsteck{
+    position: absolute;
+    left: 35%;    
+    margin-top: 315px;
+    color: rgb(94, 27, 156);
 }
